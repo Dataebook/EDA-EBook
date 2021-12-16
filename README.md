@@ -1,4 +1,4 @@
 # EDA-EBook
 Do find the e-book for free of cost Data Investigation- EDA the right way
 
-Learn the right way while you experience the stuff
+This book would give a deep dive into EDA, and would make you understand that EDA isn’t about flaunting fancy visualizations, its way beyond that. It will explain the importance of Assumption making and also make you ready with the weapons required to make assumptions. It would explain Statistics in the simplest possible way and will help you understand statistical tests with real-life examples. It would also tell you about how to begin with Kaggle, common mistakes people make and how to deal with those mistakes. It will also try to make you follow the correct path when solving a problem statement. Also at the end of this book you would understand the importance of feature engineering because one of the project in this books revolves around feature engineering. We have used humour so that readers don’t lose interest. At its core it tries to make you understand the importance of EDA.
